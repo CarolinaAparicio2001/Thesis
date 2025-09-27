@@ -4,4 +4,4 @@
 *.pth
 *.npy
 *.pkl
-*.pth
+*.pt
